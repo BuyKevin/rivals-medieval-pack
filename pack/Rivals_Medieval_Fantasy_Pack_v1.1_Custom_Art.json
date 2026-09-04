@@ -1,0 +1,1063 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body hit -> sword impact",
+      "replace_ids": [
+        13110130082
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/sword_hit_01.ogg"
+    },
+    {
+      "name": "Head hit base -> armour impact 1",
+      "replace_ids": [
+        16537337310
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/armour_hit_01.ogg"
+    },
+    {
+      "name": "Head hit variation -> armour impact 2",
+      "replace_ids": [
+        16537449730
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/armour_hit_02.ogg"
+    },
+    {
+      "name": "Kill 1 -> warrior death 1",
+      "replace_ids": [
+        16530229616
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/human_death_cry.ogg"
+    },
+    {
+      "name": "Kill 2 -> warrior death 2",
+      "replace_ids": [
+        16530229541
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/human_death_cry_v2.ogg"
+    },
+    {
+      "name": "Kill 3 -> warrior death 3",
+      "replace_ids": [
+        16530229695
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/human_death_cry_v3.ogg"
+    },
+    {
+      "name": "Sniper shoot 1 -> longbow release",
+      "replace_ids": [
+        13270206222
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/bow_release_single.ogg"
+    },
+    {
+      "name": "Sniper magazine out -> gate bolt",
+      "replace_ids": [
+        13455229044
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/orders/gate_bolt_slide.ogg"
+    },
+    {
+      "name": "Sniper magazine in -> metal latch",
+      "replace_ids": [
+        13455229188
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/ui/toggle_latch.ogg"
+    },
+    {
+      "name": "Duel countdown -> herald notification",
+      "replace_ids": [
+        17826470563
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/ui/notification.ogg"
+    },
+    {
+      "name": "Duel timer 4 sec -> ready bell",
+      "replace_ids": [
+        17826390328
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/build/unit_ready_bell.ogg"
+    },
+    {
+      "name": "Queue countdown -> patrol horn",
+      "replace_ids": [
+        17259538274
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/orders/patrol_horn_two_note.ogg"
+    },
+    {
+      "name": "Matchpoint -> commander message",
+      "replace_ids": [
+        17026600996
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/alerts/commander_message.ogg"
+    },
+    {
+      "name": "Round win -> victory cheer",
+      "replace_ids": [
+        16810041280
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/soldiers_victory_cheer.ogg"
+    },
+    {
+      "name": "Win theme -> royal fanfare",
+      "replace_ids": [
+        18221725850,
+        18239670056,
+        18221726246
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/music/stingers/victory_fanfare.ogg"
+    },
+    {
+      "name": "Round lose -> objective failed",
+      "replace_ids": [
+        16810321565
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/alerts/objective_failed.ogg"
+    },
+    {
+      "name": "Match lose -> defeat echo",
+      "replace_ids": [
+        18239670367
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/music/stingers/defeat_echo.ogg"
+    },
+    {
+      "name": "Game result reveal -> commander enters",
+      "replace_ids": [
+        18221897857
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/state/commander_enter.ogg"
+    },
+    {
+      "name": "Sudden death -> attack horn",
+      "replace_ids": [
+        17467242617
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/orders/attack_horn_stab.ogg"
+    },
+    {
+      "name": "Eliminated -> unit lost",
+      "replace_ids": [
+        17016581922
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/alerts/unit_lost.ogg"
+    },
+    {
+      "name": "Round draw -> wooden cancel",
+      "replace_ids": [
+        16810087814
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/ui/back_cancel.ogg"
+    },
+    {
+      "name": "Ding -> court notification",
+      "replace_ids": [
+        8483887957
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/ui/notification.ogg"
+    },
+    {
+      "name": "Map voted -> select group",
+      "replace_ids": [
+        103035811146294
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/ui/select_group.ogg"
+    },
+    {
+      "name": "UI confirm -> wax seal",
+      "replace_ids": [
+        177266782
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/ui/confirm_seal.ogg"
+    },
+    {
+      "name": "Matchmaking -> two-note horn",
+      "replace_ids": [
+        18525513345
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/orders/patrol_horn_two_note.ogg"
+    },
+    {
+      "name": "Heal -> magic healing",
+      "replace_ids": [
+        17138490999
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/heal_magic_shimmer.ogg"
+    },
+    {
+      "name": "RPG explosion -> siege destruction",
+      "replace_ids": [
+        13455969017
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/build/building_destroyed.ogg"
+    },
+    {
+      "name": "Portal ambience -> campfire night",
+      "replace_ids": [
+        114274252176516
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/ambience/camp_fire_night.ogg"
+    },
+    {
+      "name": "Double jump -> warrior jump",
+      "replace_ids": [
+        16770456156,
+        16492958314
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/jump_effort.ogg"
+    },
+    {
+      "name": "Out of bounds -> warning horn",
+      "replace_ids": [
+        114467311328776
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/alerts/enemy_reinforcements_warning.ogg"
+    },
+    {
+      "name": "Fists attack -> shield impact",
+      "replace_ids": [
+        13160401062
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/shield_bash_v2.ogg"
+    },
+    {
+      "name": "Diamond Hands hit -> heavy shield bash",
+      "replace_ids": [
+        94496162153937
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/shield_bash.ogg"
+    },
+    {
+      "name": "Katana attack 1 -> blade clash 1",
+      "replace_ids": [
+        14000023581
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/blade_clash_01.ogg"
+    },
+    {
+      "name": "Katana attack 2 -> blade clash 2",
+      "replace_ids": [
+        14000023392
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/blade_clash_02.ogg"
+    },
+    {
+      "name": "Katana deflect unsheathe -> weapon whoosh",
+      "replace_ids": [
+        14798337918
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/javelin_throw_whoosh.ogg"
+    },
+    {
+      "name": "Katana deflect metal -> shield block",
+      "replace_ids": [
+        14776414133
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/shield_block.ogg"
+    },
+    {
+      "name": "Katana deflect tune -> perfect guard",
+      "replace_ids": [
+        14776413989
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/perfect_guard.ogg"
+    },
+    {
+      "name": "Katana whoosh -> dodge roll",
+      "replace_ids": [
+        14000093824
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/dodge_roll.ogg"
+    },
+    {
+      "name": "Katana rare inspect -> blade clash 3",
+      "replace_ids": [
+        14427782350
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/djeada/Standard-of-Iron/main/assets/audio/sfx/combat/blade_clash_03.ogg"
+    },
+    {
+      "name": "Intro -> medieval battle loop",
+      "replace_ids": [
+        6384899588
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/hyunghwan/glenmoor-story/main/public/assets/audio/music/cynic_battle_loop.ogg"
+    },
+    {
+      "name": "Lobby music -> medieval battle loop",
+      "replace_ids": [
+        17697682466,
+        120824068504773
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/hyunghwan/glenmoor-story/main/public/assets/audio/music/cynic_battle_loop.ogg"
+    },
+    {
+      "name": "Lobby music muffled -> medieval battle loop",
+      "replace_ids": [
+        17733314783,
+        114306049661290
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/hyunghwan/glenmoor-story/main/public/assets/audio/music/cynic_battle_loop.ogg"
+    },
+    {
+      "name": "Sniper reload extra firearm parts -> silent",
+      "replace_ids": [
+        13455395017,
+        13455394948,
+        13455395090
+      ],
+      "enabled": true,
+      "mode": "id"
+    },
+    {
+      "name": "Sniper secondary firearm report -> silent",
+      "replace_ids": [
+        13270206087
+      ],
+      "enabled": true,
+      "mode": "id"
+    },
+    {
+      "name": "UI book -> medieval open book",
+      "replace_ids": [
+        18457336026
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/book_open.png"
+    },
+    {
+      "name": "UI cross -> parchment cross",
+      "replace_ids": [
+        17838290166,
+        108220438104376
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/cross.png"
+    },
+    {
+      "name": "UI duels -> crossed sword",
+      "replace_ids": [
+        18525954682
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/crossed_swords.png"
+    },
+    {
+      "name": "UI exit -> castle door",
+      "replace_ids": [
+        17498605048
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/castle_door.png"
+    },
+    {
+      "name": "UI gamemode -> royal crown",
+      "replace_ids": [
+        99135525400251
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/crown_a.png"
+    },
+    {
+      "name": "UI gear -> iron gear",
+      "replace_ids": [
+        14641612286,
+        17619445191
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/iron_gear.png"
+    },
+    {
+      "name": "UI hp -> heraldic heart",
+      "replace_ids": [
+        8276600102
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/heraldic_heart.png"
+    },
+    {
+      "name": "UI killfeed -> skull crest",
+      "replace_ids": [
+        126928245743331
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/skull_crest.png"
+    },
+    {
+      "name": "UI left -> ivory arrow left",
+      "replace_ids": [
+        17562685319
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/arrow_left.png"
+    },
+    {
+      "name": "UI lock -> medieval padlock",
+      "replace_ids": [
+        17229230506
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/padlock.png"
+    },
+    {
+      "name": "UI level -> royal crown",
+      "replace_ids": [
+        81461991645938
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/crown_b.png"
+    },
+    {
+      "name": "UI plus -> ivory plus",
+      "replace_ids": [
+        17838317115
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/plus.png"
+    },
+    {
+      "name": "UI region -> watchtower",
+      "replace_ids": [
+        135846354277966
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/watchtower.png"
+    },
+    {
+      "name": "UI right -> ivory arrow right",
+      "replace_ids": [
+        113844621753627
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/arrow_right.png"
+    },
+    {
+      "name": "UI save -> royal archive",
+      "replace_ids": [
+        13733474711
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/royal_archive.png"
+    },
+    {
+      "name": "UI scroll -> closed chronicle",
+      "replace_ids": [
+        17619445009
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/book_closed.png"
+    },
+    {
+      "name": "UI servers -> castle gate",
+      "replace_ids": [
+        12343093905
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/castle_gate.png"
+    },
+    {
+      "name": "UI spectate -> archer target",
+      "replace_ids": [
+        77908042044589
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/archer_target.png"
+    },
+    {
+      "name": "UI streak -> torch flame",
+      "replace_ids": [
+        17175092502,
+        17094014569
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/torch_flame.png"
+    },
+    {
+      "name": "UI teammate -> guild members",
+      "replace_ids": [
+        17704137194
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/guild_members.png"
+    },
+    {
+      "name": "UI task done -> ivory checkmark",
+      "replace_ids": [
+        17772690718
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/checkmark.png"
+    },
+    {
+      "name": "UI basket -> market basket",
+      "replace_ids": [
+        17619445340
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/market_basket.png"
+    },
+    {
+      "name": "UI tasks -> quest parchment",
+      "replace_ids": [
+        17653923757
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/quest_parchment.png"
+    },
+    {
+      "name": "UI shield -> heraldic shield",
+      "replace_ids": [
+        81577092220450
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/heraldic_shield.png"
+    },
+    {
+      "name": "UI event -> royal banner",
+      "replace_ids": [
+        92989711430837
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/royal_banner.png"
+    },
+    {
+      "name": "UI chicken -> wheat tribute",
+      "replace_ids": [
+        133917828562858,
+        121503061771505
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/wheat_tribute.png"
+    },
+    {
+      "name": "UI katana -> knight sword",
+      "replace_ids": [
+        17160801158
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/crossed_swords.png"
+    },
+    {
+      "name": "UI sniper -> longbow",
+      "replace_ids": [
+        17160799574
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/longbow.png"
+    },
+    {
+      "name": "UI Diamond Hands -> knight chess piece",
+      "replace_ids": [
+        14632127990
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/chess_knight.png"
+    },
+    {
+      "name": "Item background 1 -> brown leather roundel",
+      "replace_ids": [
+        13220167337
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/backgrounds/round_leather.png"
+    },
+    {
+      "name": "Item background 2 -> damaged brown roundel",
+      "replace_ids": [
+        13188242420
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/backgrounds/round_leather_damaged.png"
+    },
+    {
+      "name": "Item background 3 -> steel roundel",
+      "replace_ids": [
+        13220167472
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/backgrounds/round_steel.png"
+    },
+    {
+      "name": "Item background 4 -> green steel roundel",
+      "replace_ids": [
+        13188153054
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/backgrounds/round_steel_green.png"
+    },
+    {
+      "name": "Item background 5 -> red steel roundel",
+      "replace_ids": [
+        13188242287
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/backgrounds/round_steel_red.png"
+    },
+    {
+      "name": "Rank bronze -> shield I",
+      "replace_ids": [
+        106623367501544,
+        131795064007344,
+        73543520622815
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/shield_bronze.png"
+    },
+    {
+      "name": "Rank silver 1 -> shield II",
+      "replace_ids": [
+        80716950169934
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/shield_silver_1.png"
+    },
+    {
+      "name": "Rank silver 2 -> shield III",
+      "replace_ids": [
+        136100661820261
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/shield_silver_2.png"
+    },
+    {
+      "name": "Rank silver 3 -> shield IV",
+      "replace_ids": [
+        107898816876115
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/shield_silver_3.png"
+    },
+    {
+      "name": "Rank gold 1 -> shield V",
+      "replace_ids": [
+        134520747948636
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/shield_gold_1.png"
+    },
+    {
+      "name": "Rank gold 2 -> shield VI",
+      "replace_ids": [
+        114166096331502
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/shield_gold_2.png"
+    },
+    {
+      "name": "Rank gold 3 -> shield VII",
+      "replace_ids": [
+        90039594400813
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/shield_gold_3.png"
+    },
+    {
+      "name": "Rank platinum 1 -> shield VIII",
+      "replace_ids": [
+        133903971285645
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/shield_platinum_1.png"
+    },
+    {
+      "name": "Rank platinum 2 -> shield IX",
+      "replace_ids": [
+        82834564754747
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/shield_platinum_2.png"
+    },
+    {
+      "name": "Rank platinum 3 -> shield X",
+      "replace_ids": [
+        73345783863790
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/shield_platinum_3.png"
+    },
+    {
+      "name": "Rank diamond 1 -> great shield",
+      "replace_ids": [
+        113997689031026
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/shield_diamond.png"
+    },
+    {
+      "name": "Rank diamond 2 -> shield die",
+      "replace_ids": [
+        88059506918419
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/shield_die.png"
+    },
+    {
+      "name": "Rank diamond 3 -> knight",
+      "replace_ids": [
+        112183171942172
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/chess_knight.png"
+    },
+    {
+      "name": "Rank onyx 1 -> sword",
+      "replace_ids": [
+        104871954739030
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/crossed_swords.png"
+    },
+    {
+      "name": "Rank onyx 2 -> crown",
+      "replace_ids": [
+        109012386782238
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/crown_a.png"
+    },
+    {
+      "name": "Rank onyx 3 -> high crown",
+      "replace_ids": [
+        127982903682334
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ui/crown_b.png"
+    },
+    {
+      "name": "Rank arch -> castle tower",
+      "replace_ids": [
+        133793956251748
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/castle_tower.png"
+    },
+    {
+      "name": "Rank nemesis -> king",
+      "replace_ids": [
+        116941545385923
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/ranks/chess_king.png"
+    },
+    {
+      "name": "Arena preview -> medieval castle",
+      "replace_ids": [
+        7658055825
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/backgrounds/arena_castle.png"
+    },
+    {
+      "name": "EXPERIMENTAL sniper body -> medieval longbow",
+      "replace_ids": [
+        13188892761
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/GeorgeQLe/assets-kaykit-3d-props/main/assets/kaykit/fantasy-weapons-bits-1.0/Assets/obj/bow_A_withString.obj"
+    },
+    {
+      "name": "EXPERIMENTAL hide remaining sniper parts",
+      "replace_ids": [
+        14778413014,
+        13188893115,
+        13188893017,
+        14774727092,
+        13188892855,
+        13188893310,
+        13188892651,
+        13188892532,
+        14002915797
+      ],
+      "enabled": false,
+      "mode": "id"
+    },
+    {
+      "name": "EXPERIMENTAL katana -> knight sword",
+      "replace_ids": [
+        13760790008
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/GeorgeQLe/assets-kaykit-3d-props/main/assets/kaykit/fantasy-weapons-bits-1.0/Assets/obj/sword_A.obj"
+    },
+    {
+      "name": "EXPERIMENTAL hide remaining katana parts",
+      "replace_ids": [
+        13903792316,
+        13760790106
+      ],
+      "enabled": false,
+      "mode": "id"
+    },
+    {
+      "name": "[MEDIEVAL DAY] Skybox Back",
+      "replace_ids": [
+        14147881792,
+        10196550937,
+        12261809766,
+        135908632589654,
+        84214501374682
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/skybox/skybox_side.png"
+    },
+    {
+      "name": "[MEDIEVAL DAY] Skybox Front",
+      "replace_ids": [
+        14147882761,
+        10196550367,
+        12261809766,
+        135908632589654,
+        84214501374682
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/skybox/skybox_side.png"
+    },
+    {
+      "name": "[MEDIEVAL DAY] Skybox Left",
+      "replace_ids": [
+        14147883091,
+        10196550128,
+        12261809766,
+        135908632589654,
+        84214501374682
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/skybox/skybox_side.png"
+    },
+    {
+      "name": "[MEDIEVAL DAY] Skybox Right",
+      "replace_ids": [
+        14147882405,
+        10196549902,
+        12261809766,
+        135908632589654,
+        84214501374682
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/skybox/skybox_side.png"
+    },
+    {
+      "name": "[MEDIEVAL DAY] Skybox Up",
+      "replace_ids": [
+        14147881297,
+        10196567794,
+        72960281658487,
+        92138082970751,
+        12261813678
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/skybox/skybox_top.png"
+    },
+    {
+      "name": "[MEDIEVAL DAY] Skybox Down",
+      "replace_ids": [
+        14147882149,
+        10196550667,
+        103020541883227,
+        89972436184102,
+        12261813110
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/skybox/skybox_bottom.png"
+    },
+    {
+      "name": "[MEDIEVAL DAY] Station Skybox Back",
+      "replace_ids": [
+        2108482005
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/skybox/skybox_side.png"
+    },
+    {
+      "name": "[MEDIEVAL DAY] Station Skybox Front",
+      "replace_ids": [
+        2108482231
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/skybox/skybox_side.png"
+    },
+    {
+      "name": "[MEDIEVAL DAY] Station Skybox Left",
+      "replace_ids": [
+        2108482395
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/skybox/skybox_side.png"
+    },
+    {
+      "name": "[MEDIEVAL DAY] Station Skybox Right",
+      "replace_ids": [
+        2108482542
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/skybox/skybox_side.png"
+    },
+    {
+      "name": "[MEDIEVAL DAY] Station Skybox Up",
+      "replace_ids": [
+        2108482676
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/skybox/skybox_top.png"
+    },
+    {
+      "name": "[MEDIEVAL DAY] Station Skybox Down",
+      "replace_ids": [
+        2108545280
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/BuyKevin/rivals-medieval-pack/main/assets/skybox/skybox_bottom.png"
+    }
+  ]
+}
